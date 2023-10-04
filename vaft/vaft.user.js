@@ -69,7 +69,7 @@
         scope.ClientVersion = 'null';
         scope.ClientSession = 'null';
         scope.PlayerType2 = 'embed'; //Source
-        scope.PlayerType3 = 'autoplay'; //360p
+        scope.PlayerType3 = 'embed'; //360p
         scope.CurrentChannelName = null;
         scope.UsherParams = null;
         scope.WasShowingAd = false;
